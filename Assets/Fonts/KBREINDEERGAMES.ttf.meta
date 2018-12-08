@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1c62aa0c4edd4ec98499b8b1f5499b1
+timeCreated: 1508586109
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KBREINDEERGAMES
+  fontNames:
+  - KBREINDEERGAMES
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

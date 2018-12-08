@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1a00e63d227541749a8be49de328a3f
+timeCreated: 1508584724
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Friday Night Lights
+  fontNames:
+  - Friday Night Lights
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

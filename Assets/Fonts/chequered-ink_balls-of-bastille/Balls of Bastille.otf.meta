@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2084d62404a0343fc89f372548aa5834
+timeCreated: 1508587989
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Balls of Bastille
+  fontNames:
+  - Balls of Bastille
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
